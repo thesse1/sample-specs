@@ -1,6 +1,6 @@
 # sample-specs
 
-With this project I am trying to explore the functionality of furo.pro: https://furo.pro
+The aim of this project is to explore the functionality of furo.pro: https://furo.pro
 
 It was created following the approach described in the Furo Quickstart Guide: https://furo.pro/docs/guides/quickstart/
 
