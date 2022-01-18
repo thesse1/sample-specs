@@ -142,3 +142,24 @@ fields:
             repeated: false
             typespecific: null
         constraints: {}
+    newfield:
+        type: string
+        description: Just another demo field
+        __proto:
+            number: 8
+        __ui: null
+        meta:
+            default: ""
+            placeholder: sample.sample.newfield.placeholder
+            hint: ""
+            label: sample.sample.newfield.label
+            options:
+                flags: []
+                list: []
+            readonly: false
+            repeated: false
+            typespecific: null
+        constraints:
+            required:
+                is: "true"
+                message: newfield is required

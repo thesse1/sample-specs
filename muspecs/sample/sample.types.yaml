@@ -9,6 +9,7 @@
     this: 'string:5 [oneofname] #Oneof example'
     is: 'string:6 #Oneof example'
     val: 'int32:7= 42  #Oneof example'
+    newfield: '* string:8 #Just another demo field'
 
   target: sample.proto
   

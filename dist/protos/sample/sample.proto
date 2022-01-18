@@ -29,6 +29,9 @@ message Sample {
 
     // Oneof example
     int32 val = 7;
+
+    // Just another demo field
+    string newfield = 8;
     oneof oneofname {
 
         // Oneof example
